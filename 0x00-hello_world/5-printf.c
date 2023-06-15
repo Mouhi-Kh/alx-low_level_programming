@@ -1,4 +1,4 @@
-#include <stdio.n>
+#include <stdio.h>
 /**
  * main - A program that print a line using the printf funstion
  * Return: 0 (Success)
